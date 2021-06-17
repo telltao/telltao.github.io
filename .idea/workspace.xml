@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thumbnail.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,12 +86,22 @@
       <workItem from="1623916789300" duration="6090000" />
       <workItem from="1623927551628" duration="94000" />
       <workItem from="1623927743224" duration="567000" />
-      <workItem from="1623928556576" duration="1070000" />
+      <workItem from="1623928556576" duration="2605000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -136,6 +145,10 @@
       <screen x="0" y="1103" width="1920" height="1006" />
     </state>
     <state x="671" y="1415" key="#com.intellij.fileTypes.FileTypeChooser/0.1103.1920.1006/0.23.1920.1057@0.1103.1920.1006" timestamp="1623928910511" />
+    <state x="675" y="1315" key="RollbackChangesDialog" timestamp="1623929697639">
+      <screen x="0" y="1103" width="1920" height="1006" />
+    </state>
+    <state x="675" y="1315" key="RollbackChangesDialog/0.1103.1920.1006/0.23.1920.1057@0.1103.1920.1006" timestamp="1623929697639" />
     <state x="461" y="1245" key="SettingsEditor" timestamp="1623916996012">
       <screen x="0" y="1103" width="1920" height="1008" />
     </state>
@@ -143,6 +156,10 @@
     <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1007/0.23.1920.1057@0.1103.1920.1007" timestamp="1623909321740" />
     <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1008/0.23.1920.1057@0.1103.1920.1008" timestamp="1623916996012" />
     <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1009/0.23.1920.1057@0.1103.1920.1009" timestamp="1623916427233" />
+    <state x="673" y="1238" width="598" height="735" key="find.popup" timestamp="1623930556997">
+      <screen x="0" y="1103" width="1920" height="1006" />
+    </state>
+    <state x="673" y="1238" width="598" height="735" key="find.popup/0.1103.1920.1006/0.23.1920.1057@0.1103.1920.1006" timestamp="1623930556997" />
     <state x="625" y="1826" key="run.anything.popup" timestamp="1623928965197">
       <screen x="0" y="1103" width="1920" height="1006" />
     </state>
