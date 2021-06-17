@@ -1,137 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c047e03e-48a6-4e29-8a61-c8ca3fa8d0b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/settings.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_drafts/draft.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects/microbam.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects/ourlegacy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/recommended-books.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/recommended-products.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_plugins/file_exists.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-12-07-scalable-network-active-mq-brokers-handing-massive-connections.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-02-quickstart-rest-microservice-with-spring-boot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-13-ansible-automation-for-highly-available-jboss-fuse-amq-integration-platform.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-13-handling-large-streams-of-data-through-http-with-jboss-fuse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-02-16-faster-fuse-integration-service-s2i-openshift-deployments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-05-fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-07-fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-04-11-openshift-quickstart-in-5-minutes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-15-quarkus-camel-first-impressions-on-a-game-changing-framework.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-04-quarkus-kafka-camel-servlet-wiring-it-together.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors/color-#40a8bf.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors/color-#65bacd.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors/color-#8bccda.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors/color-#cccccc.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/colors/color-#e6e6e6.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/font-awesome/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/syntax.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/books/camel-in-action.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/books/eip.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/books/the-pragmatic-programmer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/colors.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/head.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/ansible-automation-for-highly-available-jboss-fuse-amq-integration-platform/minimal-fuse-amq-ha.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/ansible-automation-for-highly-available-jboss-fuse-amq-integration-platform/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/draft/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/faster-fuse-integration-service-s2i-openshift-deployments/faster_build.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/faster-fuse-integration-service-s2i-openshift-deployments/login_nexus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/faster-fuse-integration-service-s2i-openshift-deployments/nexus_proxy_repo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/faster-fuse-integration-service-s2i-openshift-deployments/nexus_public_group.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/faster-fuse-integration-service-s2i-openshift-deployments/nexus_s2i.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/faster-fuse-integration-service-s2i-openshift-deployments/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store/selectemptyandspring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store/selectversion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store/swagger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-and-data-grid-in-library-mode-with-index-for-searching-and-cache-store/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries/diag.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries/selectemptyandspring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries/selectversion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries/swagger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/fuse-data-grid-integration-via-hot-rod-with-persistence-and-indexing-for-advanced-queries/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/handling-large-streams-of-data-through-http-with-jboss-fuse/process_stream_file_http.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/handling-large-streams-of-data-through-http-with-jboss-fuse/process_stream_xml_http.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/handling-large-streams-of-data-through-http-with-jboss-fuse/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/addApp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/deployed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/fillTemplate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/javaconsole.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/logged.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/podInfo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/runningpod.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/openshift-quickstart-in-5-minutes/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quarkus-camel-first-impressions-on-a-game-changing-framework/os-container-jvm-app-stack.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quarkus-camel-first-impressions-on-a-game-changing-framework/quarkus_graphics_v3_bootmem_wide_03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quarkus-camel-first-impressions-on-a-game-changing-framework/scaling-up.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quarkus-camel-first-impressions-on-a-game-changing-framework/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quarkus-kafka-camel-servlet-wiring-it-together/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quickstart-rest-microservice-with-spring-boot/choose-simple-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quickstart-rest-microservice-with-spring-boot/consume.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quickstart-rest-microservice-with-spring-boot/create-new-application-class.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quickstart-rest-microservice-with-spring-boot/create-new-maven-project.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quickstart-rest-microservice-with-spring-boot/fill-project-infos.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/quickstart-rest-microservice-with-spring-boot/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/scalable-network-active-mq-brokers-handing-massive-connections/brokernetworkconcentrator.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/scalable-network-active-mq-brokers-handing-massive-connections/distributeload.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/scalable-network-active-mq-brokers-handing-massive-connections/examplenetworkconfig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/scalable-network-active-mq-brokers-handing-massive-connections/scaledown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/scalable-network-active-mq-brokers-handing-massive-connections/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/top.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c047e03e-48a6-4e29-8a61-c8ca3fa8d0b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623908869696</updated>
       <workItem from="1623908870954" duration="4626000" />
-      <workItem from="1623916789300" duration="4232000" />
+      <workItem from="1623916789300" duration="5866000" />
     </task>
     <servers />
   </component>
