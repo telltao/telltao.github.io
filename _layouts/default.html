@@ -1,56 +1,53 @@
-<!doctype html>
-<html lang="en">
-{% include head.html %}
-<body>
-	{% include header.html %}
-	<div class="container">
+<!DOCTYPE html>
+<html>
 
-	{% if page.id %}
-	<p>
-		<strong>{{ page.published | date: '%B %d, %Y' }}</strong> ( last updated : {{ page.date | date: '%B %d, %Y' }} )
-		<br>
-		{% for tag in page.tags %}
-			<a class="label label-default" href="/tags/#{{ tag | slugify }}">{{ tag }}</a>
-		{% endfor %}
-    </p>
-	{%if page.github %}
-	<p>
-    	<a href="{{ page.github }}" class="btn btn-default">
-		    <i class="fa fa-github fa-2x"></i>  {{ page.github }}
-			</a>
-	</p>
-	{% endif %}
-	<hr>
-	<h1>Abstract</h1>
-	{% endif %}
+  {% include head.html %}
 
-	{{ content }}
+  <body>
 
+    <header class="site-header">
+      <nav class="nav-extended {{ site.header-color }}">
+        {% include navbar.html %}
 
-	{% if page.id %}
-	<p>Originally published {{ page.published | date: '%B %d, %Y' }}
-    <br> Latest update {{ page.date | date: '%B %d, %Y' }}</p>
+        <div class="nav-content">
+          <ul class="tabs tabs-transparent">
+            <li class="tab"><a class="active" href="#tab-main">main</a></li>
+          {% for t in site.data.tabs %}
+            <li class="tab {% if t.disabled %}disabled{% endif %}"><a href="#{{ t.id }}">{{ t.name }}</a></li>
+          {% endfor %}
+          </ul>
+        </div>
+      </nav>
+    </header>
 
-    <p><strong>Related posts :</strong></p>
-        <ul>
-	    {% for allpost in site.posts %}
-			  {% for tag in page.tags %}
-			  {% if allpost.tags contains tag and allpost.id != page.id %}
-			  <li>
-			      <a href="{{ allpost.url }}">
-			        {{ allpost.title }}
-			      </a>
-			  </li>
-			  {% break %}
-			  {% endif %}
-			  {% endfor %}
-		{% endfor %}
-		</ul>
-	{% endif %}
+  {% for t in site.data.tabs %}
+    <div id="{{ t.id }}">
+      {% include {{ t.fp }} %}
+    </div>
+  {% endfor %}
 
-	{% include disqus.html %}
-	</div>
-	{% include footer.html %}
-	{% include analytics.html %}
-</body>
+    <div class="site-container" id="tab-main"> 
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <!-- scrolltop button -->
+    <button class="material-scrolltop waves-effect waves-light hide-on-small-only" type="button"><i class="mdi mdi-arrow-up-bold small white-text"></i></button>
+
+    <!-- jquery -->
+    <script type="text/javascript" src="{{ '/lib/jquery-min.js' | prepend: site.baseurl }}"></script>
+    <!-- materialize -->
+    <script src="{{ '/lib/materialize/js/materialize.min.js' | prepend: site.baseurl }}"></script>
+    <!-- Material ScrollTop plugin -->
+    <script src="{{ '/lib/material-scrolltop/material-scrolltop.js' | prepend: site.baseurl }}"></script>
+    <!-- main -->
+    <script src="{{ '/js/init.js' | prepend: site.baseurl }}"></script>
+    <script src="{{ '/js/main.js' | prepend: site.baseurl }}"></script>
+    <!-- google analytics -->
+    <script src="{{ '/js/google-analytics.js' | prepend: site.baseurl }}"></script>
+  </body>
+
 </html>
