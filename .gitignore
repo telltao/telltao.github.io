@@ -35,3 +35,9 @@ dataSources/
 .DS_Store
 .Ds_Store´
 /node_modules
+
+###websited##
+_site
+.sass-cache
+.jekyll-metadata
+.project
