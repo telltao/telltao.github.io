@@ -6,9 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c047e03e-48a6-4e29-8a61-c8ca3fa8d0b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/start.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,14 +143,16 @@
       <screen x="0" y="1103" width="1920" height="1006" />
     </state>
     <state x="671" y="1415" key="#com.intellij.fileTypes.FileTypeChooser/0.1103.1920.1006/0.23.1920.1057@0.1103.1920.1006" timestamp="1623928910511" />
-    <state x="675" y="1315" key="RollbackChangesDialog" timestamp="1623929697639">
-      <screen x="0" y="1103" width="1920" height="1006" />
+    <state x="675" y="1315" key="RollbackChangesDialog" timestamp="1623931811748">
+      <screen x="0" y="1103" width="1920" height="1005" />
     </state>
-    <state x="675" y="1315" key="RollbackChangesDialog/0.1103.1920.1006/0.23.1920.1057@0.1103.1920.1006" timestamp="1623929697639" />
-    <state x="461" y="1245" key="SettingsEditor" timestamp="1623916996012">
-      <screen x="0" y="1103" width="1920" height="1008" />
+    <state x="675" y="1315" key="RollbackChangesDialog/0.1103.1920.1005/0.23.1920.1057@0.1103.1920.1005" timestamp="1623931811748" />
+    <state x="675" y="1315" key="RollbackChangesDialog/0.1103.1920.1006/0.23.1920.1057@0.1103.1920.1006" timestamp="1623931782896" />
+    <state x="461" y="1245" key="SettingsEditor" timestamp="1623932281337">
+      <screen x="0" y="1103" width="1920" height="1005" />
     </state>
     <state x="461" y="152" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1623916803227" />
+    <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1005/0.23.1920.1057@0.1103.1920.1005" timestamp="1623932281337" />
     <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1007/0.23.1920.1057@0.1103.1920.1007" timestamp="1623909321740" />
     <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1008/0.23.1920.1057@0.1103.1920.1008" timestamp="1623916996012" />
     <state x="461" y="1245" key="SettingsEditor/0.1103.1920.1009/0.23.1920.1057@0.1103.1920.1009" timestamp="1623916427233" />

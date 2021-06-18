@@ -8,9 +8,13 @@ googleplus_username: telltao
 
 head-title: 欢迎访问我的网站
 title: 欢迎你
-
-baseurl: ""    # the subpath of your site, "/blog"
+#website
+baseurl: ""
 url: ""
+
+#localhost
+#baseurl: "/materialize-jekyll"
+#url: "/materialize-jekyll"
 
 # footer
 description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
