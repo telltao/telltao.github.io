@@ -7,3 +7,4 @@ _site
 google-analytics.js
 .env
 .jekyll-metadata
+*.idea/

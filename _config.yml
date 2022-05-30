@@ -17,7 +17,8 @@ url: ""
 #url: "/materialize-jekyll"
 
 # footer
-description: "I know that what I'm doing looks stupid, but I'm a big boy and really want to do this."
+description: <a class="red-text text-accent-1" href="https://beian.miit.gov.cn">工业和信息化部</a>
+  <a class="red-text text-accent-1" href="https://beian.miit.gov.cn">冀ICP备17021581号-1</a>
 
 favo: "春梦随云散，飞花逐水流"
 descrpt: "“巧者劳而智者忧，无能者无所求，饱食而遨游，泛若不系之舟”  ——《南华经》"
@@ -68,4 +69,3 @@ share-button-small-color: ""
 
 ##
 #excerpt_separator: <!-- excerpt_end -->       # for post.excerpt
-
